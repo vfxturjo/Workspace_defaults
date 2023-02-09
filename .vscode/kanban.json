@@ -1,0 +1,80 @@
+{
+    "title": "Kanban",
+    "cols": [
+        {
+            "title": "Bugs",
+            "tasks": [
+                {
+                    "text": "add optiongroups on options to add helpers.\n\nadd hover helpers?",
+                    "id": "cldqy6a37000a4063odvsigvc"
+                },
+                {
+                    "text": "when scale root note/others are invalid, the browser doesnt show anything. make a function to check the valid values.",
+                    "id": "cldarfhd6000a406348hvy1io"
+                }
+            ],
+            "id": "cldaf7s0w000a4063dtbvm570",
+            "color": "#eb144c"
+        },
+        {
+            "title": "To-Do",
+            "tasks": [
+                {
+                    "text": "create a TAB layout view",
+                    "id": "cldxfa6lg000b4063wjw7t6a9"
+                },
+                {
+                    "text": "Dont let editing on ALL places. \nkeep it simple. keep only one edit button.\n\nall places can have a edit button, based on condition",
+                    "id": "cldxf88wz000a4063wun7y7us"
+                },
+                {
+                    "text": "pointer lock api to create sudden pitch changes with laptop touch pad.\nshould be also done with touches too!",
+                    "id": "cldwu2036000b406367wazcd5"
+                },
+                {
+                    "text": "event listeners:\ntouchstart\ntouchmove\nkeydown\nwheel\ndevice orientation\nresize\njoystick?",
+                    "id": "cldsf2smz000c40638ewzlxnm"
+                }
+            ],
+            "id": "cldaf7s0w000c40631p5vchj3",
+            "color": "#fcb900"
+        },
+        {
+            "title": "onek pore",
+            "tasks": [
+                {
+                    "text": "zooming to increase performance?\nhttps://stackoverflow.com/questions/3420975/html5-canvas-zooming\n",
+                    "id": "cldrmambe000a4063sgl099vb"
+                },
+                {
+                    "text": "implement touchscreen detection?",
+                    "id": "cldrgujob000a406337qeli1z"
+                },
+                {
+                    "text": "resize handler????? with debounce logic...\n```js\nvar RESIZE_DELAY = 300;\nfunction Wbbmtt__resizeCanvasHandler(orgThis) {\n    this._resizeCanvasHandler2 = this._resizeCanvasHandler2\n    || debounce(this._resizeCanvas, RESIZE_DELAY);\n    this._resizeCanvasHandler2();\n}\n\nfunction Wbbmtt__resizeCanvas() {\n    var canvas = document.getElementById(\"touchDisplayCanvas\");\n    if ((canvas.width != window.innerWidth) || (canvas.height != window.innerHeight)) {\n        canvas.width = window.innerWidth;\n        canvas.height = window.innerHeight;\n        \n        this._drawTouches(); // draw axis etc.\n    }\n}\n\n```",
+                    "id": "cldr9twvm000a4063mplf10fh"
+                }
+            ],
+            "id": "cldrgurb2000b4063imerzcbd",
+            "color": "var(--vscode-editor-foreground)"
+        },
+        {
+            "title": "onno project",
+            "tasks": [
+                {
+                    "text": "svelte intellisence \nvs\nsvelte for VS Code",
+                    "id": "cldwtfbrv000a4063phw2nb6a"
+                },
+                {
+                    "text": "AutoHotPie works later",
+                    "id": "cldsf20vv000b406366mfzn1m"
+                }
+            ],
+            "id": "cldaf7s0w000d4063f0dii6ym",
+            "color": "#0693e3"
+        }
+    ],
+    "autosave": true,
+    "saveToFile": true,
+    "timestamp": 1675966681525
+}
