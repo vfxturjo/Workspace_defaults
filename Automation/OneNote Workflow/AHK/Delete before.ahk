@@ -1,0 +1,1 @@
+﻿Send, {LShift Down}{Home}{LShift Up}{Delete}
