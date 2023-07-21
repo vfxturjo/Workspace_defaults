@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Workspace_defaults",
+			"path": "."
+		},
+		{
+			"name": "My-WebDev-journey",
+			"path": "../My-WebDev-journey"
+		},
+		{
+			"name": "Stage-Live-Performance-things",
+			"path": "../Stage-Live-Performance-things"
+		},
+		{
+			"name": "Resolume-Arena_API_GUI-TJ",
+			"path": "../Resolume-Arena_API_GUI-TJ"
+		},
+		{
+			"name": "Resolume-Arena_API_GUI-TJ-Svelte",
+			"path": "../Resolume-Arena_API_GUI-TJ-Svelte"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../My_python_journey_archives"
+		},
+		{
+			"path": "../My_python_journey"
+		},
+		{
+			"name": "PythonResearchProjects",
+			"path": "../PythonResearchProjects"
+		}
+	]
+}
