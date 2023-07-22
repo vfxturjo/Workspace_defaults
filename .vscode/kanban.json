@@ -11,8 +11,8 @@
             "title": "To-Do",
             "tasks": [
                 {
-                    "text": "",
-                    "id": "clk55ink7000b4164vg1ch9ua"
+                    "text": "keyboard keys finder/mapper\n- AFTER READY, PRESS ALL KEYS OF KEYBOARD TO GET A COMPATIBLE LIST. THEN BE ABLE TO MAP THEM",
+                    "id": "clkd8z2kb000a4164m52f9cti"
                 }
             ],
             "id": "clk55ink7000c41646039h66o",
@@ -20,7 +20,12 @@
         },
         {
             "title": "Doing",
-            "tasks": [],
+            "tasks": [
+                {
+                    "text": "velocity",
+                    "id": "clkcqhubs000a41641f9h32of"
+                }
+            ],
             "id": "clk55ink7000d4164loe1aetu",
             "color": "#0693e3"
         },
@@ -33,5 +38,5 @@
     ],
     "autosave": true,
     "saveToFile": true,
-    "timestamp": 1689494698311
+    "timestamp": 1689984287237
 }
