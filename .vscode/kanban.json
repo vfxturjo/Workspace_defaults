@@ -9,12 +9,7 @@
         },
         {
             "title": "To-Do",
-            "tasks": [
-                {
-                    "text": "keyboard keys finder/mapper\n- AFTER READY, PRESS ALL KEYS OF KEYBOARD TO GET A COMPATIBLE LIST. THEN BE ABLE TO MAP THEM",
-                    "id": "clkd8z2kb000a4164m52f9cti"
-                }
-            ],
+            "tasks": [],
             "id": "clk55ink7000c41646039h66o",
             "color": "#fcb900"
         },
@@ -38,5 +33,5 @@
     ],
     "autosave": true,
     "saveToFile": true,
-    "timestamp": 1689984287237
+    "timestamp": 1690909142380
 }
