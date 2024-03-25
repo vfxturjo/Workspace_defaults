@@ -15,12 +15,7 @@
         },
         {
             "title": "Doing",
-            "tasks": [
-                {
-                    "text": "velocity",
-                    "id": "clkcqhubs000a41641f9h32of"
-                }
-            ],
+            "tasks": [],
             "id": "clk55ink7000d4164loe1aetu",
             "color": "#0693e3"
         },
@@ -33,5 +28,5 @@
     ],
     "autosave": true,
     "saveToFile": true,
-    "timestamp": 1690909142380
+    "timestamp": 1707938157015
 }

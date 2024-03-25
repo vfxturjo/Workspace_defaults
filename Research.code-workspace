@@ -13,5 +13,9 @@
 			"name": "PythonResearchProjects",
 			"path": "../PythonResearchProjects"
 		}
-	]
+	],
+	"settings": {
+		"notebook.stickyScroll.enabled": true,
+		"notebook.stickyScroll.mode": "indented"
+	}
 }

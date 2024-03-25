@@ -3,6 +3,9 @@
 		{
 			"name": "OneNote-Anki-importer",
 			"path": "../_Projects/OneNote-Anki-importer"
+		},
+		{
+			"path": "../_Projects/JS Playground"
 		}
 	]
 }
